@@ -5,7 +5,7 @@ let app = new Vue({
     tasks: [
       {
         isCompleted: false,
-        taskValue: "Don't give up, make your dreams comes true",
+        taskValue: "Don't give up, make your dreams come true",
       },
     ],
   },
